@@ -1,6 +1,8 @@
 # Treeversity
 Information visualization tool for comparing two trees.
 
+[Treeversity screeshot](http://www.cs.umd.edu/hcil/treeversity/img/2012_03_30_fake_budget_with_labels_and_scatter_plot.png)
+
 TreeVersity is a research prototype that visually compares two trees by node values and created and deleted nodes. It was created by [John Alexis Guerra Gómez](http://johnguerra.co), [Audra Buck-Coleman](http://www.art.umd.edu/faculty/abuck/), [Catherine Plaisant](http://hcil.umd.edu/catherine-plaisant/) and [Ben Shneiderman](https://www.cs.umd.edu/users/ben/) from the [Human Computer Interaction Lab](http://hcil.cs.umd.edu/) and the [CATT Lab](http://www.cattlab.umd.edu/) from the [University of Maryland](http://umd.edu)
 
  You can find more information about the project on the [Treeversity project homepage](http://www.cs.umd.edu/hcil/treeversity/)
