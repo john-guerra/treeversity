@@ -1,0 +1,11 @@
+US_Federal_Budget_Outlays_2012/2012_03_outlays_all_recomputed.xml filter=lfs diff=lfs merge=lfs -text
+US_Federal_Budget_Outlays_2012/2012_06_26_bea_category_outlays_2000_and_on.xml filter=lfs diff=lfs merge=lfs -text
+US_Federal_Budget_Outlays_2012/2012_06_26_outlays_2000_and_on_all.xml filter=lfs diff=lfs merge=lfs -text
+US_Federal_Budget_Outlays_2012/2012_03_22_outlays.xml filter=lfs diff=lfs merge=lfs -text
+US_Federal_Budget_Outlays_2012/2012_03_22_outlays_all.xml filter=lfs diff=lfs merge=lfs -text
+US_Federal_Budget_Outlays_2012/2012_06_26_bea_category_outlays_2000_and_on_all.xml filter=lfs diff=lfs merge=lfs -text
+US_Federal_Budget_Outlays_2012/2012_06_26_outlays_2000_and_on.xml filter=lfs diff=lfs merge=lfs -text
+US_Federal_Budget_Outlays_2012/2012_06_26_outlays_2000_and_on_all_short.xml filter=lfs diff=lfs merge=lfs -text
+US_Federal_Budget_Outlays_2012/2012_06_26_outlays_bea_category_2000_and_on_all_short.xml filter=lfs diff=lfs merge=lfs -text
+US_Federal_Budget_Outlays_2012/2012_03_15_outlays_bea_first.xml filter=lfs diff=lfs merge=lfs -text
+US_Federal_Budget_Outlays_2012/2012_03_16_outlays_bea_first_all.xml filter=lfs diff=lfs merge=lfs -text
