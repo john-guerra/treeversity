@@ -9,3 +9,4 @@ US_Federal_Budget_Outlays_2012/2012_06_26_outlays_2000_and_on_all_short.xml filt
 US_Federal_Budget_Outlays_2012/2012_06_26_outlays_bea_category_2000_and_on_all_short.xml filter=lfs diff=lfs merge=lfs -text
 US_Federal_Budget_Outlays_2012/2012_03_15_outlays_bea_first.xml filter=lfs diff=lfs merge=lfs -text
 US_Federal_Budget_Outlays_2012/2012_03_16_outlays_bea_first_all.xml filter=lfs diff=lfs merge=lfs -text
+*.xml filter=lfs diff=lfs merge=lfs -text
