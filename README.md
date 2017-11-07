@@ -18,3 +18,5 @@ TreeVersity is a research prototype that visually compares two trees by node val
  Then open one of the provided example datasets (from the 2012 US Federal Budget outlays report). *Data files should be in the treeml data format [sample treeml](https://github.com/prefuse/Prefuse/blob/master/data/treeml-sample.xml)*
 
  The file will contain several trees, one for each year, then drag the trees from the table to the corresponding comparison panels on the top right of the window
+
+![Demo loading data](TreeVersity-1.6-loading_data.gif)
