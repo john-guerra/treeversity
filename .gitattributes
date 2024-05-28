@@ -10,6 +10,3 @@ US_Federal_Budget_Outlays_2012/2012_06_26_outlays_bea_category_2000_and_on_all_s
 US_Federal_Budget_Outlays_2012/2012_03_15_outlays_bea_first.xml filter=lfs diff=lfs merge=lfs -text
 US_Federal_Budget_Outlays_2012/2012_03_16_outlays_bea_first_all.xml filter=lfs diff=lfs merge=lfs -text
 *.xml filter=lfs diff=lfs merge=lfs -text
-data/2012_06_26_outlays_2000_and_on_all.xml filter=lfs diff=lfs merge=lfs -text
-data/Transportation_Sample_Data_tree.xml filter=lfs diff=lfs merge=lfs -text
-data/artificial_budget_for_experiment_bigger.xml filter=lfs diff=lfs merge=lfs -text
